@@ -1,0 +1,9 @@
+asgiref==3.2.3
+certifi==2019.11.28
+Django==3.0.3
+django-cors-headers==3.2.1
+django-redis==4.11.0
+pytz==2019.3
+redis==3.4.1
+sqlparse==0.3.0
+wincertstore==0.2
